@@ -127,7 +127,7 @@ export default function App() {
             </motion.h1>
             
             <motion.p variants={itemVariants} className="hero-subtitle" style={{ maxWidth: "540px", fontSize: "1.05rem", lineHeight: "1.7" }}>
-              Hi! I'm Nabil Muhammad Ghifari, a Computer Science student pursuing an advanced specialization in Artificial Intelligence. I’m passionate about exploring the intersection of UI/UX Design, Software Development, and Artificial Intelligence to create digital products that feel intuitive, purposeful, and engaging. From designing interfaces to developing intelligent solutions, I enjoy transforming ideas into meaningful products through a balance of creativity, technology, and user-centered thinking.
+              Hi! I'm Nabil Muhammad Ghifari, a Computer Science student specializing in Artificial Intelligence. I’m passionate about merging UI/UX design and Software Development to build intuitive, user-centered digital experiences.
             </motion.p>
             
             <motion.div variants={itemVariants} className="btn-group">
