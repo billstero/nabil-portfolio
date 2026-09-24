@@ -284,7 +284,7 @@ export default function App() {
           
           <div className="social-links">
             <a 
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=nabilmghifari26@gmail.com&su=Hello%20Nabil,%20Let's%20Collaborate!" 
+              href="mailto:nabilmghifari26@gmail.com?subject=Hello%20Nabil,%20Let's%20Collaborate!" 
               target="_blank" 
               rel="noopener noreferrer" 
               aria-label="Email"
