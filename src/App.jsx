@@ -23,7 +23,7 @@ const projects = [
     link: "https://gearshare-drojankite-s-projects.vercel.app?_vercel_share=PnJ1FYEc8sUBTCD4LWso1AdKPM4w7fhW" 
   },
   {
-    id: 2, title: "FloodGuard", category: "Artificial Intelligence and Machine Learning", year: "2026", type: "Group",
+    id: 2, title: "FloodGuard", category: "Artificial Intelligence and Machine Learning", year: "2025", type: "Group",
     desc: "AI-powered flood detection and mitigation system web application with LSTM Machine Learning models.",
     tech: ["Machine Learning", "Data/API", "Artificial Intelligence", "UI/UX Design"],
     image: "/Floodguard.jpg",
